@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "canvas": "^2.11.2",
-    "gl": "^6.0.2"
+    "gl": "github:stijnb1234/headless-gl"
   }
 }
